@@ -12,8 +12,8 @@
 
     # Then asks "What is your name?"
 
-    # Then responds "Hello <user's name>"
-
+    
+    
     # Then asks: "What is your year of birth?"
 
     # Then asks: "Do you know how to drive?"
